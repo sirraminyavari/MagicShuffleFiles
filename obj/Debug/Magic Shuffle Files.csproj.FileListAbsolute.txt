@@ -1,0 +1,51 @@
+G:\Utility\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files\obj\Debug\WindowsApplication1.exe
+G:\Utility\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files\obj\Debug\WindowsApplication1.pdb
+C:\Users\R.Soft Co\Desktop\Magic Shuffle Files\obj\Debug\WindowsApplication1.exe
+C:\Users\R.Soft Co\Desktop\Magic Shuffle Files\obj\Debug\WindowsApplication1.pdb
+C:\Users\R.Soft Co\Desktop\Magic Shuffle Files\bin\Debug\WindowsApplication1.exe
+C:\Users\R.Soft Co\Desktop\Magic Shuffle Files\bin\Debug\WindowsApplication1.pdb
+C:\Users\R.Soft Co\Desktop\Magic Shuffle Files\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\R.Soft Co\Desktop\Magic Shuffle Files\obj\Debug\WindowsApplication1.frmMain.resources
+C:\Users\R.Soft Co\Desktop\Magic Shuffle Files\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\R.Soft Co\Desktop\Magic Shuffle Files\obj\Debug\ResGen.read.1.tlog
+C:\Users\R.Soft Co\Desktop\Magic Shuffle Files\obj\Debug\ResGen.write.1.tlog
+C:\Users\R.Soft Co\Desktop\Magic Shuffle Files - Version2\obj\Debug\WindowsApplication1.exe
+C:\Users\R.Soft Co\Desktop\Magic Shuffle Files - Version2\obj\Debug\WindowsApplication1.pdb
+C:\Users\R.Soft Co\Desktop\Magic Shuffle Files - Version2\bin\Debug\WindowsApplication1.exe
+C:\Users\R.Soft Co\Desktop\Magic Shuffle Files - Version2\bin\Debug\WindowsApplication1.pdb
+C:\Users\R.Soft Co\Desktop\Magic Shuffle Files - Version2\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\R.Soft Co\Desktop\Magic Shuffle Files - Version2\obj\Debug\WindowsApplication1.frmMain.resources
+C:\Users\R.Soft Co\Desktop\Magic Shuffle Files - Version2\obj\Debug\WindowsApplication1.Properties.Resources.resources
+C:\Users\R.Soft Co\Desktop\Magic Shuffle Files - Version2\obj\Debug\ResGen.read.1.tlog
+C:\Users\R.Soft Co\Desktop\Magic Shuffle Files - Version2\obj\Debug\ResGen.write.1.tlog
+G:\Utility\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files - Version2\obj\Debug\WindowsApplication1.exe
+G:\Utility\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files - Version2\obj\Debug\WindowsApplication1.pdb
+G:\Utility\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files - Version2\bin\Debug\WindowsApplication1.exe
+G:\Utility\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files - Version2\bin\Debug\WindowsApplication1.pdb
+G:\Utility\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files - Version2\obj\Debug\ResolveAssemblyReference.cache
+G:\Utility\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files - Version2\obj\Debug\WindowsApplication1.frmMain.resources
+G:\Utility\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files - Version2\obj\Debug\WindowsApplication1.Properties.Resources.resources
+G:\Utility\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files - Version2\obj\Debug\ResGen.read.1.tlog
+G:\Utility\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files - Version2\obj\Debug\ResGen.write.1.tlog
+E:\SRC\Magic Shuffle Files v3\bin\Debug\Magic Shuffle Files v2.2.exe.config
+E:\SRC\Magic Shuffle Files v3\bin\Debug\Magic Shuffle Files v2.2.exe
+E:\SRC\Magic Shuffle Files v3\bin\Debug\Magic Shuffle Files v2.2.pdb
+E:\SRC\Magic Shuffle Files v3\obj\Debug\MagicShuffleFiles.frmMain.resources
+E:\SRC\Magic Shuffle Files v3\obj\Debug\MagicShuffleFiles.Properties.Resources.resources
+E:\SRC\Magic Shuffle Files v3\obj\Debug\Magic Shuffle Files.csproj.GenerateResource.Cache
+E:\SRC\Magic Shuffle Files v3\obj\Debug\Magic Shuffle Files v2.2.exe
+E:\SRC\Magic Shuffle Files v3\obj\Debug\Magic Shuffle Files v2.2.pdb
+D:\SRC\Magic Shuffle Files v3\obj\Debug\MagicShuffleFiles.frmMain.resources
+D:\SRC\Magic Shuffle Files v3\obj\Debug\MagicShuffleFiles.Properties.Resources.resources
+D:\SRC\Magic Shuffle Files v3\obj\Debug\Magic Shuffle Files.csproj.GenerateResource.cache
+D:\SRC\Magic Shuffle Files v3\obj\Debug\Magic Shuffle Files.csproj.CoreCompileInputs.cache
+D:\SRC\Magic Shuffle Files v3\bin\Debug\Magic Shuffle Files v3.exe.config
+D:\SRC\Magic Shuffle Files v3\bin\Debug\Magic Shuffle Files v3.exe.manifest
+D:\SRC\Magic Shuffle Files v3\bin\Debug\Magic Shuffle Files v3.application
+D:\SRC\Magic Shuffle Files v3\bin\Debug\Magic Shuffle Files v3.exe
+D:\SRC\Magic Shuffle Files v3\bin\Debug\Magic Shuffle Files v3.pdb
+D:\SRC\Magic Shuffle Files v3\obj\Debug\Magic Shuffle Files v3.exe.manifest
+D:\SRC\Magic Shuffle Files v3\obj\Debug\Magic Shuffle Files v3.application
+D:\SRC\Magic Shuffle Files v3\obj\Debug\Magic Shuffle Files v3.exe
+D:\SRC\Magic Shuffle Files v3\obj\Debug\Magic Shuffle Files v3.pdb
+D:\SRC\Magic Shuffle Files v3\obj\Debug\Magic Shuffle Files.csprojAssemblyReference.cache

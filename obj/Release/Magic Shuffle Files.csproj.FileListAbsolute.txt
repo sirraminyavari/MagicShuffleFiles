@@ -1,0 +1,80 @@
+C:\Users\R.Soft Co\Desktop\Magic Shuffle Files\obj\Release\WindowsApplication1.exe
+C:\Users\R.Soft Co\Desktop\Magic Shuffle Files\obj\Release\WindowsApplication1.pdb
+C:\Users\R.Soft Co\Desktop\Magic Shuffle Files\bin\Release\WindowsApplication1.exe
+C:\Users\R.Soft Co\Desktop\Magic Shuffle Files\bin\Release\WindowsApplication1.pdb
+C:\Users\R.Soft Co\Desktop\Magic Shuffle Files\obj\Release\ResolveAssemblyReference.cache
+C:\Users\R.Soft Co\Desktop\Magic Shuffle Files\obj\Release\WindowsApplication1.frmMain.resources
+C:\Users\R.Soft Co\Desktop\Magic Shuffle Files\obj\Release\WindowsApplication1.Properties.Resources.resources
+C:\Users\R.Soft Co\Desktop\Magic Shuffle Files\obj\Release\ResGen.read.1.tlog
+C:\Users\R.Soft Co\Desktop\Magic Shuffle Files\obj\Release\ResGen.write.1.tlog
+C:\Users\R.Soft Co\Desktop\Magic Shuffle Files - Version2\obj\Release\WindowsApplication1.exe
+C:\Users\R.Soft Co\Desktop\Magic Shuffle Files - Version2\obj\Release\WindowsApplication1.pdb
+C:\Users\R.Soft Co\Desktop\Magic Shuffle Files - Version2\bin\Release\WindowsApplication1.exe
+C:\Users\R.Soft Co\Desktop\Magic Shuffle Files - Version2\bin\Release\WindowsApplication1.pdb
+C:\Users\R.Soft Co\Desktop\Magic Shuffle Files - Version2\obj\Release\ResolveAssemblyReference.cache
+C:\Users\R.Soft Co\Desktop\Magic Shuffle Files - Version2\obj\Release\WindowsApplication1.frmMain.resources
+C:\Users\R.Soft Co\Desktop\Magic Shuffle Files - Version2\obj\Release\WindowsApplication1.Properties.Resources.resources
+C:\Users\R.Soft Co\Desktop\Magic Shuffle Files - Version2\obj\Release\ResGen.read.1.tlog
+C:\Users\R.Soft Co\Desktop\Magic Shuffle Files - Version2\obj\Release\ResGen.write.1.tlog
+G:\Utility\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files - Version2\obj\Release\WindowsApplication1.exe
+G:\Utility\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files - Version2\obj\Release\WindowsApplication1.pdb
+G:\Utility\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files - Version2\bin\Release\WindowsApplication1.exe
+G:\Utility\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files - Version2\bin\Release\WindowsApplication1.pdb
+G:\Utility\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files - Version2\obj\Release\ResolveAssemblyReference.cache
+G:\Utility\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files - Version2\obj\Release\WindowsApplication1.frmMain.resources
+G:\Utility\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files - Version2\obj\Release\WindowsApplication1.Properties.Resources.resources
+G:\Utility\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files - Version2\obj\Release\ResGen.read.1.tlog
+G:\Utility\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files - Version2\obj\Release\ResGen.write.1.tlog
+D:\Utility\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files - Version2\obj\Release\ResolveAssemblyReference.cache
+D:\Utility\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files - Version2\obj\Release\ResGen.read.1.tlog
+D:\Utility\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files - Version2\obj\Release\ResGen.write.1.tlog
+D:\Utility\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files - Version2\bin\Release\Magic Shuffle Files v2.2.exe
+D:\Utility\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files - Version2\bin\Release\Magic Shuffle Files v2.2.pdb
+D:\Utility\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files - Version2\obj\Release\MagicShuffleFiles.Properties.Resources.resources
+D:\Utility\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files - Version2\obj\Release\Magic Shuffle Files v2.2.exe
+D:\Utility\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files - Version2\obj\Release\Magic Shuffle Files v2.2.pdb
+D:\Utility\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files - Version2\obj\Release\MagicShuffleFiles.frmMain.resources
+J:\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files v2.2\obj\Release\Magic Shuffle Files v2.2.exe
+J:\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files v2.2\obj\Release\Magic Shuffle Files v2.2.pdb
+J:\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files v2.2\bin\Release\Magic Shuffle Files v2.2.exe
+J:\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files v2.2\bin\Release\Magic Shuffle Files v2.2.pdb
+J:\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files v2.2\obj\Release\ResolveAssemblyReference.cache
+J:\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files v2.2\obj\Release\MagicShuffleFiles.frmMain.resources
+J:\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files v2.2\obj\Release\MagicShuffleFiles.Properties.Resources.resources
+J:\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files v2.2\obj\Release\ResGen.read.1.tlog
+J:\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files v2.2\obj\Release\ResGen.write.1.tlog
+D:\Utility\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files v2.2\obj\Release\Magic Shuffle Files v2.2.exe
+D:\Utility\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files v2.2\obj\Release\Magic Shuffle Files v2.2.pdb
+D:\Utility\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files v2.2\bin\Release\Magic Shuffle Files v2.2.exe
+D:\Utility\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files v2.2\bin\Release\Magic Shuffle Files v2.2.pdb
+D:\Utility\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files v2.2\obj\Release\ResolveAssemblyReference.cache
+D:\Utility\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files v2.2\obj\Release\MagicShuffleFiles.frmMain.resources
+D:\Utility\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files v2.2\obj\Release\MagicShuffleFiles.Properties.Resources.resources
+D:\Utility\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files v2.2\obj\Release\ResGen.read.1.tlog
+D:\Utility\R.Personal Data\Programmings\Visual C#.net\Magic Shuffle Files v2.2\obj\Release\ResGen.write.1.tlog
+E:\SRC\Magic Shuffle Files v3\obj\Release\Magic Shuffle Files v2.2.exe
+E:\SRC\Magic Shuffle Files v3\obj\Release\Magic Shuffle Files v2.2.pdb
+E:\SRC\Magic Shuffle Files v3\bin\Release\Magic Shuffle Files v2.2.exe.config
+E:\SRC\Magic Shuffle Files v3\bin\Release\Magic Shuffle Files v2.2.exe
+E:\SRC\Magic Shuffle Files v3\bin\Release\Magic Shuffle Files v2.2.pdb
+E:\SRC\Magic Shuffle Files v3\obj\Release\Magic Shuffle Files.csprojResolveAssemblyReference.cache
+E:\SRC\Magic Shuffle Files v3\obj\Release\MagicShuffleFiles.frmMain.resources
+E:\SRC\Magic Shuffle Files v3\obj\Release\MagicShuffleFiles.Properties.Resources.resources
+E:\SRC\Magic Shuffle Files v3\obj\Release\Magic Shuffle Files.csproj.GenerateResource.Cache
+E:\SRC\Magic Shuffle Files v3\bin\Release\Magic Shuffle Files v2.2.exe.manifest
+E:\SRC\Magic Shuffle Files v3\bin\Release\Magic Shuffle Files v2.2.application
+E:\SRC\Magic Shuffle Files v3\obj\Release\Magic Shuffle Files v2.2.exe.manifest
+E:\SRC\Magic Shuffle Files v3\obj\Release\Magic Shuffle Files v2.2.application
+D:\SRC\Magic Shuffle Files v3\obj\Release\MagicShuffleFiles.frmMain.resources
+D:\SRC\Magic Shuffle Files v3\obj\Release\MagicShuffleFiles.Properties.Resources.resources
+D:\SRC\Magic Shuffle Files v3\obj\Release\Magic Shuffle Files.csproj.GenerateResource.cache
+D:\SRC\Magic Shuffle Files v3\obj\Release\Magic Shuffle Files.csproj.CoreCompileInputs.cache
+D:\SRC\Magic Shuffle Files v3\bin\Release\Magic Shuffle Files v3.exe.config
+D:\SRC\Magic Shuffle Files v3\bin\Release\Magic Shuffle Files v3.exe.manifest
+D:\SRC\Magic Shuffle Files v3\bin\Release\Magic Shuffle Files v3.application
+D:\SRC\Magic Shuffle Files v3\bin\Release\Magic Shuffle Files v3.exe
+D:\SRC\Magic Shuffle Files v3\bin\Release\Magic Shuffle Files v3.pdb
+D:\SRC\Magic Shuffle Files v3\obj\Release\Magic Shuffle Files v3.exe.manifest
+D:\SRC\Magic Shuffle Files v3\obj\Release\Magic Shuffle Files v3.application
+D:\SRC\Magic Shuffle Files v3\obj\Release\Magic Shuffle Files v3.exe
+D:\SRC\Magic Shuffle Files v3\obj\Release\Magic Shuffle Files v3.pdb
